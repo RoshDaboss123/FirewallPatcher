@@ -15,7 +15,7 @@ import org.jsoup.nodes.Document;
 public class VirtualPin {
 public static String v[]=new String[100000];
     public static void main(String[] args)throws IOException {
-        final String u = "https://siliconvalley.basisindependent.com/";
+        final String u = "";
         int count = 0;
         File myFile = new File("file.txt");
         PrintWriter pw = new PrintWriter(myFile);
